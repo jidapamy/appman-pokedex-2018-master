@@ -1,0 +1,1 @@
+# appman-pokedex-2018-master
